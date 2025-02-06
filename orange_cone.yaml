@@ -1,0 +1,6 @@
+path: project\dataset
+train: C:\Users\Shantanu Puthran\PycharmProjects\PythonProject4\files\proejct\dataset\train\images
+val: C:\Users\Shantanu Puthran\PycharmProjects\PythonProject4\files\proejct\dataset\valid
+names:
+  0: orange_cone
+nc: 1
